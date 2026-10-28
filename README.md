@@ -1,5 +1,5 @@
 # Eecnivity
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ecnivity👋
 
 ### 🔭 About Me
 I'm a passionate **[Your Role/Title, e.g., Full-Stack Developer / Data Scientist / Student]** based in **[Your Location]**. I enjoy building software that solves real-world problems and exploring new technologies.
